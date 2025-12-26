@@ -1,0 +1,22 @@
+{
+  "requester": "AgentC",
+  "data_id": "data_level2.txt",
+  "data_level": 2,
+  "situation_level": 1,
+  "agent_level": 3,
+  "history_min_level": 1,
+  "delegator_min_level": 1,
+  "immediate_delegator_level": 2,
+  "share_policy": {
+    "mode": "level2_conditional",
+    "with_delegator": true,
+    "delegatee_min_level": 2,
+    "delegatee_rule": "level>=2",
+    "raw_with_delegator": false,
+    "raw_with_delegatee": false
+  },
+  "access_granted": true,
+  "delegation_chain_valid": true,
+  "token": "cub7QpAmjfltcEDgZ8rslw",
+  "message": "Access token issued."
+}

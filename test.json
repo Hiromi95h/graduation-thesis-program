@@ -1,0 +1,21 @@
+{
+  "task": "fetch_data",
+  "payload": {
+    "url": "https://example.com/data",
+    "note": "DはこのURLからデータを取得せよ"
+  },
+  "signatures": [
+    {
+      "id": "ida",
+      "signature": "FHe7f7i9VlYpQ9cz/6CwX545pyJU/L5pLFDmryhH45W018g3e+N0s3TfK6xKVubcNBM0QMfILAtFjL7jL1hsGngeNa3LQQoyN+x/Aa/G6S2wbvFVdobWvcN7X1NSzOQ5GY1iaKmUQmoW6Iwl572gP4iTqTy0f/vdoNZYt20pCGePfLq5/J2554t7WE8drzm6jr1TCk6IpNGMsbCyvRiXyjSdY578z3wjtiGEuq1z7pukvZ7HNzj8a4Le1C6N+PQdnWrafc+pZdAkT2PanlgMnIqBL9pYZkuTk3WWZToOdxS91jitIjBNDYnRgVVKfEYMpj24e+tyNtbUmWn+y/ZAlw=="
+    },
+    {
+      "id": "idb",
+      "signature": "co745pJkmLocRsPiO1pzMeC2OnpNcjrS/uLodt0x0WbYvkuHMYrpbEpJ/qNI4hLr2yy2Oh3iNQ5jrq9caSztgbDJtEnOJB5Scjsejm0VmCW/H+ElbB6A7l/DlDxs8g6/KZiaJ95oaZFjfggJtOzB2JlEDUP7nU8vbmCev7De+RZhqCNkfBJbEwBvVxvJFJ0P0V6gP/yPXHiu/MmyV98jghYtZR6pwSPa8YoGaUUvBQo5PBfvYCKJUN+SAMSl0pESCPP5LoCnA13Ah5Evb43SW86stKzuvyRPeQjmWeYVd9eQcQLcZ8XefWyq6hYoPzDlgH158Lpqh51KLHNFyB+/Bg=="
+    },
+    {
+      "id": "idc",
+      "signature": "quOhZFlRAnbZvIdZrM934tLxVo8urDGvJ+3ieQLdj2yyr+a+A1e+tW7HrYSvAPS4gQ4U8P5jBahlzaODTrRpUWy7Dy/bBmvxTv13rZqlgBUaVsrjfQF8gOw8tM6UyD50lZQdcnRrsUbavWFzENRoy3et/smeyLuOK89Q2voHgTh2gauz68inqv+cqDLlYo4RFze0krn3IHxw8MQLE2NY/kr2HJBU++HjhnIhn5e3Izm4+W9A3XcFSO7YN/pBdnAigyZ+TZzYE7TEhiFP4KTciVPS7Bm+QeGz7fWtldnzFdKiX7h4VmxrETwP2RDpbJln8PpUCKL1f5w2hamXt1ZO8Q=="
+    }
+  ]
+}

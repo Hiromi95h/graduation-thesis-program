@@ -1,0 +1,21 @@
+{
+  "registered_agents": {
+    "AgentA": true,
+    "AgentB": true,
+    "AgentC": true
+  },
+  "agent_levels": {
+    "AgentA": 1,
+    "AgentB": 2,
+    "AgentC": 3
+  },
+  "data_levels": {
+    "data_level1.txt": 1,
+    "data_level2.txt": 2,
+    "data_level3.txt": 3
+  },
+  "task": {
+    "situation_level": 1,
+    "data_id": "data_level2.txt"
+  }
+}

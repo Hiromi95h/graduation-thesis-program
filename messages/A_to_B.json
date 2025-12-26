@@ -1,0 +1,31 @@
+{
+  "task": {
+    "task_id": "task1",
+    "action": "fetch_data",
+    "payload": {
+      "url": "https://example.com"
+    },
+    "situation_level": 1,
+    "data_request": {
+      "data_id": "data_level2.txt"
+    }
+  },
+  "meta": {
+    "created_at": 1766737904.197319,
+    "delegation_chain": [
+      {
+        "from": "A",
+        "to": "B",
+        "timestamp": 1766737904.197319,
+        "prev_hash": "GENESIS",
+        "hash": "77fa2efb587948e04a6dba243c2f1ace2a63439bdf536d4d1d85517a01afe0cc"
+      }
+    ]
+  },
+  "signatures": [
+    {
+      "by": "User",
+      "sig": "g34bEs07JP2PlqJ4BZXvpYtROLaNraAmyZhavwmxFVP3NWCvgwXKzr64Pefd69gUgfbERIN/WckxcxLA3MLCFx8kKWeoItQKETEDdWBiAW75OoduIRnQTSqzQH0v+d6zijvC3rBZZDeJz73jTrC1WqKTVpDrVJcjWyxCA4aPisSIIwSIbF8Xm3fleE4BJ90+i9GQ6Gb2l1qUfNhJu1MdSmht9634ZA6N7WSK7yq5UVgE4XRGlUQg3J20pFvv/3jC571ZBTjXIG6Yg2Qn5WGtmTtr7+jO3ss/cWEZEIHhY1h4VPb3l6fES8//EV2EhmCigsdaJ5z6vK8thoIYmLS/fg=="
+    }
+  ]
+}
